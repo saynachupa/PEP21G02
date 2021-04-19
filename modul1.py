@@ -8,4 +8,4 @@ name = 'Chupa'
 #print(name,name,name, sep='#', end='')
 #print(100* (name+ '\n'))
 #print(4*'3')
-print(4*(4*'*'+'\n'))
+print(3*(3*'*'+'\n'))
